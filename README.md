@@ -16,7 +16,13 @@
 </a>
 </p>
 
----
+<p align="center">
+🌐 <strong>Portfolio:</strong> 
+<a href="https://tessa-jimmi-portfolio.netlify.app">
+https://tessa-jimmi-portfolio.netlify.app
+</a>
+</p>
+
 
 # 🚀 About Me
 
