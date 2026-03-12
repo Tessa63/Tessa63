@@ -14,12 +14,9 @@
 <a href="https://github.com/Tessa63">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
-</p>
 
-<p align="center">
-🌐 <strong>Portfolio:</strong> 
 <a href="https://tessa-jimmi-portfolio.netlify.app">
-https://tessa-jimmi-portfolio.netlify.app
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 </p>
 
